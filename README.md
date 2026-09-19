@@ -15,7 +15,7 @@ A computational and theoretical program exploring algebraic geometric compactifi
 - Parameter-free closure and sensitivity analysis  
 - Reproducible phenomenology matching  
 
-*Note: The full computational framework, validation artifacts, and supporting proprietary documentation are maintained under controlled access while the research matures. Access to the one-click reproducibility suite is available for grant and institutional reviewers upon request.*
+*Note: The scientific core is public at [AGC-Framework](https://github.com/nbm3016/AGC-Framework) (`8/8 PASS`, `continuous_knobs = 0`). Lab notes, workshop maps, and partner packs stay private.*
 
 ---
 
@@ -28,7 +28,7 @@ Topological / Geometric Methods · Multi-stage Validation Pipelines · Reproduci
 
 ### Selected Work
 
-- **AGC Computational Framework** — End-to-end staged validation engine with formal closure proofs, sensitivity mapping, and phenomenology predictions (private / restricted access)
+- **[AGC Computational Framework](https://github.com/nbm3016/AGC-Framework)** — End-to-end staged validation engine with formal closure proofs, sensitivity mapping, and phenomenology predictions (public scientific core; Lab remains private)
 - Additional theoretical and computational notes available upon request
 
 ---
